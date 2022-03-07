@@ -26,3 +26,32 @@ Based on the dataset gather from the Louise’s play "Fever" with can see that t
 ![Outcomes Based on Goals](https://user-images.githubusercontent.com/39811614/156954976-11bb1281-cd12-492a-8d9d-e8bbafd45b87.png)
 
 The examine above dataset shows an alarming result based on the outcome, goals, and plays dataset. This dataset shows a similarity between the two line graphs. The above graph is showing the failure rate to surpass the successful plays. This dataset would required Louised Play Fever fundraising management team to make the necessary changes and implementation for the next project. The object for the management team is to prevent the constant spikes of failure rate but to keep it under control a stable rate less than the 10% output total. 
+
+
+## Chalenges and Difficulties Encountered
+
+This dateset was fairly challengening to gather utilize the appropite formulas for the combination of ranges and arguntes for the requirements ask in this challenge during delivery.
+
+## Results
+
+### Conclusion for Outcomes based on Launch Date
+
+*  Succesful rate percentages should be analyze during the campaign timeline. Due that sharp drops of successful rates and spikes of failure rate should be monitor to make the necessary adjusments to support the vision and objective of the client. 
+
+*   Due to the high rate of failed events. Quality control surveys should me included in the dataset to have a better understing of that cause the increase of the failure rates.
+
+### Conclusion for Outcomes based on Goals
+
+* Based on the given result from this dataset the success of the project got overshadow by the spike of number of failures. This would required management to included multi
+
+## Limitations of Dataset 
+
+This dataset would need more surveys and data to come with more in deep conclusion of trends, spikes, outlayer data set, or other concepts that are important to provide a well structure data analysis. In addition, the reliability of this dataset factors such as human error, bias inputs, missing dataset, and other concepts should be consider and analysis to proivde the best possible solution for the need of the client. It is recommended to have quality control dataset to determine the reasons for the successful rates as well for the failure rates.
+
+## Extra Tables and Charts
+
+* Theater Outcomes by Launch Date
+![barChartTheatherOutcomes](https://user-images.githubusercontent.com/39811614/156962554-869e8e1b-8a5d-42da-b908-b54d868bd406.png)
+
+* Outcomes Based on Goals
+![Outcomes Pareto](https://user-images.githubusercontent.com/39811614/156962691-8e301579-53f4-4f9b-9843-d4d31bd8e6a7.png)
