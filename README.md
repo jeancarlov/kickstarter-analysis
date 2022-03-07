@@ -16,6 +16,11 @@ Moreover, the month of December can be consider a near lost of operational suppo
 ## Monthly Results Graph by Theater Outcomes by Launch Date
 ![monthlyGraph](https://user-images.githubusercontent.com/39811614/156944243-2c8c7067-b49e-4beb-860f-2ca87b99e3e3.png)
 
-As you can see in the line graph below the exponential increased in successful rates for the month of may and June. S
+As you can see in the line graph below the exponential increased in successful rates for the month of may and June. Lastly, The graph shows of that the total successful rate for the project was approximately 61.29%, total failure rate was approximately 36.01%, and a canceled rate approximately of .03%. 
+
+## Conclusion
+
+Based on the dataset gather from the Louise’s play "Fever" with can see that the project started well at the beginning of January to reached its highest point in the months of May and June. However, the succesful rate of play for the fundraising project began to fade away with the increase of failure rates to the point of reaching the highest failure rate in the month of December. Overall this project can be consider fair enough successful becuase it kept the successful rate at 61.29% but it did not pass the 80% rate. Base on the theory of pareto principle 80/ 20 in which the 20% input should output 80%. this is a theory of efficiency and it helps to track the rate of efficenty and quality to determine if a project was successful or if there is anything to implement in the project that will increase the sucessful rate on the next funraising. We suggested to Louise’s play Fever fundraising program to implement and make the necessary changes for their next project to ensure the 80% or higher of successful rate. 
+
 ## Overall Chart
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/39811614/156944041-b89d983f-30d7-4118-a8eb-eb014a6f7536.png)
