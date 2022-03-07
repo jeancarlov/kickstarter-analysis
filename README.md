@@ -70,7 +70,9 @@ This dataset would need more surveys and data to come with more in deep conclusi
 ## Extra Tables and Charts
 
 * Theater Outcomes by Launch Date
+
 ![barChartTheatherOutcomes](https://user-images.githubusercontent.com/39811614/156962554-869e8e1b-8a5d-42da-b908-b54d868bd406.png)
 
 * Outcomes Based on Goals
+
 ![Outcomes Pareto](https://user-images.githubusercontent.com/39811614/156962691-8e301579-53f4-4f9b-9843-d4d31bd8e6a7.png)
