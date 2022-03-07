@@ -22,5 +22,7 @@ As you can see in the line graph below the exponential increased in successful r
 
 Based on the dataset gather from the Louise’s play "Fever" with can see that the project started well at the beginning of January to reached its highest point in the months of May and June. However, the succesful rate of play for the fundraising project began to fade away with the increase of failure rates to the point of reaching the highest failure rate in the month of December. Overall this project can be consider fair enough successful becuase it kept the successful rate at 61.29% but it did not pass the 80% rate. Base on the theory of pareto principle 80/ 20 in which the 20% input should output 80%. this is a theory of efficiency and it helps to track the rate of efficenty and quality to determine if a project was successful or if there is anything to implement in the project that will increase the sucessful rate on the next funraising. We suggested to Louise’s play Fever fundraising program to implement and make the necessary changes for their next project to ensure the 80% or higher of successful rate. 
 
-## Overall Chart
-![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/39811614/156944041-b89d983f-30d7-4118-a8eb-eb014a6f7536.png)
+## Outcomes Based on Goals
+![Outcomes Based on Goals](https://user-images.githubusercontent.com/39811614/156954976-11bb1281-cd12-492a-8d9d-e8bbafd45b87.png)
+
+The examine above dataset shows an alarming result based on the outcome, goals, and plays dataset. This dataset shows a similarity between the two line graphs. The above graph is showing the failure rate to surpass the successful plays. This dataset would required Louised Play Fever fundraising management team to make the necessary changes and implementation for the next project. The object for the management team is to prevent the constant spikes of failure rate but to keep it under control a stable rate less than the 10% output total. 
