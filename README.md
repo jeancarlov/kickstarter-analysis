@@ -39,6 +39,7 @@ Based on the dataset gather from the Louise’s play "Fever" with can see that t
 * Outcomes Based on Goals Line Graph 
 
 ![outcomeBase_onGoalsLineGRaph](https://user-images.githubusercontent.com/39811614/156964644-81a57253-32bd-456c-98ac-c8eabb6c5f9a.png)
+
 The examine above dataset shows an alarming result based on the outcome, goals, and plays dataset. This dataset shows a similarity between the two line graphs. The above graph is showing the failure rate to surpass the successful plays. This dataset would required Louised Play Fever fundraising management team to make the necessary changes and implementation for the next project. The object for the management team is to prevent the constant spikes of failure rate but to keep it under control a stable rate less than the 10% output total. 
 
 ## Conclusion
@@ -46,7 +47,7 @@ The examine above dataset shows an alarming result based on the outcome, goals, 
 This graph shows a high rate of success as well as activity from the $1000 or between $30,000 to $40,000 range. As a result it can be suggested base on this result that the project should keep and create several low bugget campaings based on the dataset gather in this research. 
 
 
-## Chalenges and Difficulties Encountered
+## Challenges and Difficulties Encountered
 
 This dateset was fairly challengening to gather utilize the appropite formulas for the combination of ranges and arguntes for the requirements ask in this challenge during delivery.
 
@@ -60,7 +61,7 @@ This dateset was fairly challengening to gather utilize the appropite formulas f
 
 ### Conclusion for Outcomes based on Goals
 
-* Based on the given result from this dataset the success of the project got overshadow by the spike of number of failures. This would required management to included multi
+* Based on the given result from this dataset the success of the project got overshadow by the spike of number of failures. This would required management to included multiple surveys for quality and control from the successful, failed, and canceled events.
 
 ## Limitations of Dataset 
 
